@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+cabot_alert_alerta/__init__.py
+cabot_alert_alerta/alerta.py
+cabot_alert_alerta/models.py
+cabot_alert_alerta.egg-info/PKG-INFO
+cabot_alert_alerta.egg-info/SOURCES.txt
+cabot_alert_alerta.egg-info/dependency_links.txt
+cabot_alert_alerta.egg-info/top_level.txt
