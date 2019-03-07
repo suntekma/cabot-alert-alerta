@@ -60,7 +60,7 @@ class AlertaAlert(AlertPlugin):
                 "link": link
               },
               "environment": "Production",
-              "event": checkname,
+              "event": service.name,
               "group": service.name,
               "origin": "curl",
               "resource": service.name,
